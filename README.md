@@ -1,6 +1,6 @@
 # 🚖 RideShare Backend  
 A robust Ride Sharing REST API backend built with Spring Boot, MongoDB, and JWT Authentication.  
-*Personalized for Utkarsh Bahuguna.*
+
 
 ## 🚀 Features
 - Secure JWT authentication  
@@ -117,4 +117,5 @@ curl -X POST http://localhost:8081/api/v1/rides \
 
 ## 👤 Author  
 **Utkarsh Bahuguna**
+
 
